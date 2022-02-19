@@ -36,4 +36,4 @@ Glitch: Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab
 
 Repl: [![Run on Repl.it](https://repl.it/badge/github/anonymouseJoke/giveaway)](https://repl.it/github/anonymouseJoke/giveaway)
 
-heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anonymouseJoke/giveaway)
+heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CoolBoyYTr/giveaway)
