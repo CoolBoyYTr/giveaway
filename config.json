@@ -1,6 +1,6 @@
 {
   "token": "Discord token", 
-  "prefix": "YourPrefix",
+  "prefix": "g",
   "everyoneMention": false,
   "hostedBy": true
 }
